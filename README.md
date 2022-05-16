@@ -6,13 +6,31 @@
 [![Linkedin: Abhishek](https://img.shields.io/badge/-Abhishek-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/er-abhishek-kumar-singh/)](www.linkedin.com/in/er-abhishek-kumar-singh)&nbsp;&nbsp;
 [![GitHub Abhishek](https://img.shields.io/github/followers/erabhisheksingh?label=follow&style=social)](https://github.com/erabhisheksingh/)
 
-</br>
-
 ---
 
-I'm a Software Developer currently working for **Privacera** and based out of Pune, India. I'm involved in developing Cloud Native and Web Applications using SpringCloud, Java, Docker, Kubernetes and other cloud tools. I'm a passionate Java and SpringBoot developer and fully endorse the Open Source community. I've an addiction to learning and sharing my knowledge with others. Actively looking for Open Source projects to contribute.
+I'm a Software Developer currently working for **Privacera** and based out of Pune, India. I'm involved in developing Cloud Native and Web Applications using SpringCloud, Java, Docker, Kubernetes and other cloud tools. I'm a passionate Java and SpringBoot developer and fully endorse the Open Source community. Actively looking for Open Source projects to contribute.
 
-This year I focused on learning some of the DevOps tools like Docker, Kubernetes and ArgoCD. I also started to test the waters of **PYTHON** and it's ecosystem. Created a few projects using **FastAPI** and will be creating a few more using **FLASK**. Hopefully by the end of the year will have good Python skills too.
+### <img src="https://media.giphy.com/media/42tS2cfBtj8Y/giphy.gif" width="50"> Wanna know more...  
+
+```javascript
+const Abhishek = {
+    pronouns: "He" | "Him",
+    code: ["Java", "Python"],
+    technologies: {
+        backEnd: {
+            java: ["SpringCloud", "SpringBoot", "Spring-Security"],
+            python: ["FastAPI", "Flask"],
+        },
+        devOps: ["AWS", "Docker🐳", "Kubernetes"],
+        databases: ["MariaDB", "MySql", "H2", "Oracle"],
+        misc: ["Apache Solr", "Spring Reactive", "HP Fortify"]
+    },
+    architecture: ["Microservices", "Event Driven Applications"],
+    currentFocus: "Learning Python and it's frameworks"
+};
+```
+
+This year I focused on learning some of the DevOps tools like **Docker**, **Kubernetes** and **ArgoCD**. I also started to test the waters of **PYTHON** and it's ecosystem. Created a few projects using **FastAPI** and will be creating a few more using **FLASK**. Hopefully by the end of the year will have good Python skills too.
 
 If you find any of my Public projects as useful, feel free to **FORK**.
 
@@ -35,73 +53,21 @@ If you find any of my Public projects as useful, feel free to **FORK**.
 
 ---
  
-## [YouTube](https://youtube.com/waylonwalker)
-
----
- 
- <p>
-  <img width="250" align='left' src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/hacktoberfest.png?raw=true">
-</p>
- 
-### Boy Scout Rule
-
-I love open source.  I am not a heavy maintainer of any large libraries, but I really like the boyscout rule.  I contribute to things as I come across issues that I think other people might struggle with.  This may be things that are overlooked by someone who is deep into the library.  I 💕 a good onboarding readme with good example.
-
- ---
-
-<p>
-  <a href="https://waylonwalker.com/latest"><img width="400" align='right' src="https://waylonwalker.com/latest.png?raw=true"></a>
-</p>
-
-### My Digital Garden 🌱
-
-I write regular blog posts, most of which you will find on my personal website [waylonwalker.com](https://waylonwalker.com) and [dev.to/waylonwalker](https://dev.to/waylonwalker).
-
-I write about things I am familiar with, things that trip up folks that I mentor, and things that I am learning.  Day to day I make things with **data** using **python** and **javascript**. 
-
-[Latest Post 👉](https://waylonwalker.com/latest/)
-
-<details>
- <summary><strong>other favorite posts</strong></summary>
- <a href="https://waylonwalker.com/blog/eight-years-cat/"><img width="400" src="https://waylonwalker.com/eight-years-cat.png?raw=true"></a>
- <a href="https://waylonwalker.com/blog/keyboard-driven-vscode/"><img width="400" src="https://waylonwalker.com/alt%20b.png?raw=true"></a>
- <a href="https://waylonwalker.com/blog/what-are-github-actions/"><img width="400" src="https://waylonwalker.com/what-are-github-actions.png?raw=true"></a>
- 
-</details>
-
-💌 Sign up for my [newsletter](https://waylonwalker.com/newsletter/)
+## &#x1f4c8; GitHub Stats
 
 ---
 
-## <img height="30" style="border-radius:50%" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"> Latest Followers _${me_followers_count}_
+<a href="https://github.com/MartinHeinz/go-project-blueprint">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=erabhisheksingh&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>&nbsp;&nbsp;
 
-${latest_followers}
+<a href="https://github.com/MartinHeinz/python-project-blueprint">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=erabhisheksingh&show_icons=true&langs_count=10&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>&nbsp;&nbsp;
 
+</br>
 
-## Latest Story
-<p align='center'>
-<p float="left">
-        <img src='https://waylonwalker.com/latest-story.png' alt='story one' width='280'/>
-</p>
-</p>
+<a href="https://github.com/MartinHeinz/python-project-blueprint">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=erabhisheksingh&repo=SW-Spring-Cloud-Microservices&show_icons=true&langs_count=10&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>&nbsp;&nbsp;
 
-## Stargazers
-
-[![Stargazers repo roster for @waylonwalker/waylonwalker](https://reporoster.com/stars/waylonwalker/waylonwalker)](https://github.com/waylonwalker/waylonwalker/stargazers)
-
-
-
-
-
-**erabhisheksingh/erabhisheksingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
