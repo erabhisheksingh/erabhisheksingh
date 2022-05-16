@@ -38,17 +38,17 @@ If you find any of my Public projects as useful, feel free to **FORK**.
 ## 🔧 Technologies & Tools
 </br>
 <p  align='left'>
-<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/stargazers"><img src="https://img.shields.io/badge/-Java-white?logo=java&logoColor=purple&style=flat-square" alt="Java Badge"/></a>&nbsp;&nbsp;
-<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/stargazers"><img src="https://img.shields.io/badge/-SpringBoot-green?logo=springboot&logoColor=white&style=flat-square" alt="SpringBoot Badge"/></a>&nbsp;&nbsp;
-<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/stargazers"><img src="https://img.shields.io/badge/-SpringSecurity-green?logo=spring-security&logoColor=white&style=flat-square" alt="SpringSecurity Badge"/></a>&nbsp;&nbsp;
-<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/stargazers"><img src="https://img.shields.io/badge/-Spring-green?logo=spring&logoColor=white&style=flat-square" alt="Spring Badge"/></a>&nbsp;&nbsp;
-<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/stargazers"><img src="https://img.shields.io/badge/-Docker-white?logo=docker&logoColor=blue&style=flat-square" alt="Docker Badge"/></a>&nbsp;&nbsp;
-<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/stargazers"><img src="https://img.shields.io/badge/-Kubernetes-white?logo=kubernetes&logoColor=blue&style=flat-square" alt="Kubernetes Badge"/></a>&nbsp;&nbsp;
-<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/stargazers"><img src="https://img.shields.io/badge/-Python-white?logo=python&logoColor=blue&style=flat-square" alt="Python Badge"/></a>&nbsp;&nbsp;
-<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/stargazers"><img src="https://img.shields.io/badge/-FastAPI-white?logo=fastapi&logoColor=#009999&style=flat-square" alt="FastAPI Badge"/></a>&nbsp;&nbsp;
-<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/stargazers"><img src="https://img.shields.io/badge/-Flask-white?logo=flask&logoColor=black&style=flat-square" alt="Flask Badge"/></a>&nbsp;&nbsp;
-<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/stargazers"><img src="https://img.shields.io/badge/-Oracle-white?logo=oracle&logoColor=red&style=flat-square" alt="Oracle Badge"/></a>&nbsp;&nbsp;
-<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/stargazers"><img src="https://img.shields.io/badge/-MySQL-white?logo=mysql&logoColor=blue&style=flat-square" alt="Oracle Badge"/></a>
+<a href="https://github.com/erabhisheksingh/"><img src="https://img.shields.io/badge/-Java-white?logo=java&logoColor=purple&style=flat-square" alt="Java Badge"/></a>&nbsp;&nbsp;
+<a href="https://github.com/erabhisheksingh/"><img src="https://img.shields.io/badge/-SpringBoot-green?logo=springboot&logoColor=white&style=flat-square" alt="SpringBoot Badge"/></a>&nbsp;&nbsp;
+<a href="https://github.com/erabhisheksingh/"><img src="https://img.shields.io/badge/-SpringSecurity-green?logo=spring-security&logoColor=white&style=flat-square" alt="SpringSecurity Badge"/></a>&nbsp;&nbsp;
+<a href="https://github.com/erabhisheksingh/"><img src="https://img.shields.io/badge/-Spring-green?logo=spring&logoColor=white&style=flat-square" alt="Spring Badge"/></a>&nbsp;&nbsp;
+<a href="https://github.com/erabhisheksingh/"><img src="https://img.shields.io/badge/-Docker-white?logo=docker&logoColor=blue&style=flat-square" alt="Docker Badge"/></a>&nbsp;&nbsp;
+<a href="https://github.com/erabhisheksingh/"><img src="https://img.shields.io/badge/-Kubernetes-white?logo=kubernetes&logoColor=blue&style=flat-square" alt="Kubernetes Badge"/></a>&nbsp;&nbsp;
+<a href="https://github.com/erabhisheksingh/"><img src="https://img.shields.io/badge/-Python-white?logo=python&logoColor=blue&style=flat-square" alt="Python Badge"/></a>&nbsp;&nbsp;
+<a href="https://github.com/erabhisheksingh/"><img src="https://img.shields.io/badge/-FastAPI-white?logo=fastapi&logoColor=#009999&style=flat-square" alt="FastAPI Badge"/></a>&nbsp;&nbsp;
+<a href="https://github.com/erabhisheksingh/"><img src="https://img.shields.io/badge/-Flask-white?logo=flask&logoColor=black&style=flat-square" alt="Flask Badge"/></a>&nbsp;&nbsp;
+<a href="https://github.com/erabhisheksingh/"><img src="https://img.shields.io/badge/-Oracle-white?logo=oracle&logoColor=red&style=flat-square" alt="Oracle Badge"/></a>&nbsp;&nbsp;
+<a href="https://github.com/erabhisheksingh/"><img src="https://img.shields.io/badge/-MySQL-white?logo=mysql&logoColor=blue&style=flat-square" alt="Oracle Badge"/></a>
 </p>
 
 ---
@@ -57,16 +57,16 @@ If you find any of my Public projects as useful, feel free to **FORK**.
 
 ---
 <p>
-<a href="https://github.com/MartinHeinz/go-project-blueprint">
+<a href="https://github.com/erabhisheksingh/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=erabhisheksingh&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>&nbsp;&nbsp;
 
-<a href="https://github.com/MartinHeinz/python-project-blueprint">
+<a href="https://github.com/erabhisheksingh/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=erabhisheksingh&show_icons=true&langs_count=10&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>&nbsp;&nbsp;
 </P>
 
-<a href="https://github.com/MartinHeinz/python-project-blueprint">
+<a href="https://github.com/erabhisheksingh/SW-Spring-Cloud-Microservices">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=erabhisheksingh&repo=SW-Spring-Cloud-Microservices&show_icons=true&langs_count=10&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>&nbsp;&nbsp;
 
