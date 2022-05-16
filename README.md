@@ -1,15 +1,24 @@
-# [![waylon walker header](https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/main/icon/gh-bannner-light.png)](https://waylonwalker.com)
+# ![Abhishek Header](header-image.png)
 
 
 ## Hey there, I'm <span style="font-size:1em;color: #009999">Abhishek Kumar Singh</span> 👋
 
-[![Linkedin: Abhishek](https://img.shields.io/badge/-Abhishek-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/anmol098/)&nbsp;&nbsp;
+[![Linkedin: Abhishek](https://img.shields.io/badge/-Abhishek-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/er-abhishek-kumar-singh/)](www.linkedin.com/in/er-abhishek-kumar-singh)&nbsp;&nbsp;
 [![GitHub Abhishek](https://img.shields.io/github/followers/erabhisheksingh?label=follow&style=social)](https://github.com/erabhisheksingh/)
 
 </br>
 
 ---
 
+I'm a Software Developer currently working for **Privacera** and based out of Pune, India. I'm involved in developing Cloud Native and Web Applications using SpringCloud, Java, Docker, Kubernetes and other cloud tools. I'm a passionate Java and SpringBoot developer and fully endorse the Open Source community. I've an addiction to learning and sharing my knowledge with others. Actively looking for Open Source projects to contribute.
+
+This year I focused on learning some of the DevOps tools like Docker, Kubernetes and ArgoCD. I also started to test the waters of **PYTHON** and it's ecosystem. Created a few projects using **FastAPI** and will be creating a few more using **FLASK**. Hopefully by the end of the year will have good Python skills too.
+
+If you find any of my Public projects as useful, feel free to **FORK**.
+
+---
+## 🔧 Technologies & Tools
+</br>
 <p  align='left'>
 <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/stargazers"><img src="https://img.shields.io/badge/-Java-white?logo=java&logoColor=purple&style=flat-square" alt="Java Badge"/></a>&nbsp;&nbsp;
 <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/stargazers"><img src="https://img.shields.io/badge/-SpringBoot-green?logo=springboot&logoColor=white&style=flat-square" alt="SpringBoot Badge"/></a>&nbsp;&nbsp;
@@ -19,17 +28,11 @@
 <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/stargazers"><img src="https://img.shields.io/badge/-Kubernetes-white?logo=kubernetes&logoColor=blue&style=flat-square" alt="Kubernetes Badge"/></a>&nbsp;&nbsp;
 <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/stargazers"><img src="https://img.shields.io/badge/-Python-white?logo=python&logoColor=blue&style=flat-square" alt="Python Badge"/></a>&nbsp;&nbsp;
 <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/stargazers"><img src="https://img.shields.io/badge/-FastAPI-white?logo=fastapi&logoColor=#009999&style=flat-square" alt="FastAPI Badge"/></a>&nbsp;&nbsp;
-<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/stargazers"><img src="https://img.shields.io/badge/-Flask-white?logo=flask&logoColor=black&style=flat-square" alt="Flask Badge"/></a>
+<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/stargazers"><img src="https://img.shields.io/badge/-Flask-white?logo=flask&logoColor=black&style=flat-square" alt="Flask Badge"/></a>&nbsp;&nbsp;
+<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/stargazers"><img src="https://img.shields.io/badge/-Oracle-white?logo=oracle&logoColor=red&style=flat-square" alt="Oracle Badge"/></a>&nbsp;&nbsp;
+<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/stargazers"><img src="https://img.shields.io/badge/-MySQL-white?logo=mysql&logoColor=blue&style=flat-square" alt="Oracle Badge"/></a>
 </p>
 
----
-
-I'm a Backend Developer working on Cloud Native and Web Applications developed using SpringCloud, Java, Docker, Kubernetes and other cloud tools. I'm a passionate Java and SpringBoot developer and fully endorse the Open Source community. I've an addiction to learning and sharing my knowledge with others. Actively looking for Open Source projects to contribute.
-
-This year I focused on learning some of the DevOps tools like Docker, Kubernetes and ArgoCD. I also started to test the waters of **PYTHON** and it's ecosystem. Created a few projects using **FastAPI** and will be creating a few more using **FLASK**. Hopefully by the end of the year will have good Python skills too.
-
-If you find any of my Public projects as useful, feel free to **FORK**.
- 
 ---
  
 ## [YouTube](https://youtube.com/waylonwalker)
