@@ -48,7 +48,7 @@ If you find any of my Public projects as useful, feel free to **FORK**.
 <a href="https://github.com/erabhisheksingh/"><img src="https://img.shields.io/badge/-FastAPI-white?logo=fastapi&logoColor=#009999&style=flat-square" alt="FastAPI Badge"/></a>&nbsp;&nbsp;
 <a href="https://github.com/erabhisheksingh/"><img src="https://img.shields.io/badge/-Flask-white?logo=flask&logoColor=black&style=flat-square" alt="Flask Badge"/></a>&nbsp;&nbsp;
 <a href="https://github.com/erabhisheksingh/"><img src="https://img.shields.io/badge/-Oracle-white?logo=oracle&logoColor=red&style=flat-square" alt="Oracle Badge"/></a>&nbsp;&nbsp;
-<a href="https://github.com/erabhisheksingh/"><img src="https://img.shields.io/badge/-MySQL-white?logo=mysql&logoColor=blue&style=flat-square" alt="Oracle Badge"/></a>
+<a href="https://github.com/erabhisheksingh/"><img src="https://img.shields.io/badge/-MySQL-white?logo=mysql&logoColor=blue&style=flat-square" alt="MySQL Badge"/></a>
 </p>
 
 ---
