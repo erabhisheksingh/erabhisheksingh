@@ -66,7 +66,11 @@ If you find any of my Public projects as useful, feel free to **FORK**.
 </a>&nbsp;&nbsp;
 </P>
 
+<p>
 <a href="https://github.com/erabhisheksingh/SW-Spring-Cloud-Microservices">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=erabhisheksingh&repo=SW-Spring-Cloud-Microservices&show_icons=true&langs_count=10&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>&nbsp;&nbsp;
-
+<a href="https://github.com/erabhisheksingh/FastAPI-Blog-App">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=erabhisheksingh&repo=fastapi-blog-app&show_icons=true&langs_count=10&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>&nbsp;&nbsp;
+</p>
