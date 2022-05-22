@@ -64,7 +64,7 @@ If you find any of my Public projects as useful, feel free to **FORK**.
 <a href="https://github.com/erabhisheksingh/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=erabhisheksingh&show_icons=true&langs_count=10&layout=compact&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>&nbsp;&nbsp;
-</P>
+</p>
 
 <p>
 <a href="https://github.com/erabhisheksingh/SW-Spring-Cloud-Microservices">
