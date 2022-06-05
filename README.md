@@ -12,22 +12,21 @@ I'm a Software Developer currently working for **Privacera** and based out of Pu
 
 ### <img src="https://media.giphy.com/media/42tS2cfBtj8Y/giphy.gif" width="50"> Wanna know more...  
 
-```javascript
-const Abhishek = {
-    pronouns: "He" | "Him",
-    code: ["Java", "Python"],
-    technologies: {
-        backEnd: {
-            java: ["SpringCloud", "SpringBoot", "Spring-Security"],
-            python: ["FastAPI", "Flask"],
+```python
+def abhishek():
+    pronouns = "He | Him"
+    code = ["Java", "Python"]
+    technologies = {
+        "backEnd": {
+            "java" : ["SpringCloud", "SpringBoot", "Spring-Security"],
+            "python" : ["FastAPI", "Flask"],
         },
-        devOps: ["AWS", "Docker🐳", "Kubernetes"],
-        databases: ["MariaDB", "MySql", "H2", "Oracle"],
-        misc: ["Apache Solr", "Spring Reactive", "HP Fortify"]
-    },
-    architecture: ["Microservices", "Event Driven Applications"],
-    currentFocus: "Learning Python and it's frameworks"
-};
+        "devOps" : ["AWS", "Docker🐳", "Kubernetes"],
+        "databases" : ["MariaDB", "MySql", "H2", "Oracle"],
+        "misc" : ["Apache Solr", "Spring Reactive", "HP Fortify"]
+    }
+    architecture = ["Microservices", "Event Driven Applications"]
+    currentFocus = "Learning Python and it's frameworks"
 ```
 
 This year I focused on learning some of the DevOps tools like **Docker**, **Kubernetes** and **ArgoCD**. I also started to test the waters of **PYTHON** and it's ecosystem. Created a few projects using **FastAPI** and will be creating a few more using **FLASK**. Hopefully by the end of the year will have good Python skills too.
@@ -70,9 +69,11 @@ If you find any of my Public projects as useful, feel free to **FORK**.
 <a href="https://github.com/erabhisheksingh/SW-Spring-Cloud-Microservices">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=erabhisheksingh&repo=SW-Spring-Cloud-Microservices&show_icons=true&langs_count=10&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>&nbsp;&nbsp;
+
 <a href="https://github.com/erabhisheksingh/FastAPI-Blog-App">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=erabhisheksingh&repo=fastapi-blog-app&show_icons=true&langs_count=10&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>&nbsp;&nbsp;
+
 <a href="https://github.com/erabhisheksingh/FastAPI-Blockchain-App">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=erabhisheksingh&repo=fastapi-blockchain-app&show_icons=true&langs_count=10&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>&nbsp;&nbsp;
