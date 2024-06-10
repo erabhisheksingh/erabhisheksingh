@@ -8,7 +8,7 @@
 
 ---
 
-I'm a Software Developer currently working for as **IT Engineer 2** for **ABN AMRO Bank N.V.** and based out of Amsterdam, Netherlands. I'm involved in developing Cloud Native Applications using SpringCloud, Java, Docker, Kubernetes and other cloud tools. I'm a passionate Java and SpringBoot developer and fully endorse the Open Source community. Actively looking for Open Source projects to contribute.
+I'm a Software Developer currently working as **IT Engineer** and based out of Amsterdam, Netherlands. I'm involved in developing Cloud Native Applications using SpringCloud, Java, Docker, Kubernetes and other cloud tools. I'm a passionate Java and SpringBoot developer and fully endorse the Open Source community. Actively looking for Open Source projects to contribute.
 
 ### <img src="https://media.giphy.com/media/42tS2cfBtj8Y/giphy.gif" width="50"> Wanna know more...  
 
@@ -22,15 +22,13 @@ def abhishek():
             "python" : ["FastAPI", "Flask"],
             "go" : ["gorilla/mux"]
         },
-        "devOps" : ["AWS", "Azure", "Docker🐳", "Kubernetes"],
-        "databases" : ["MariaDB", "MySql", "H2", "Oracle"],
-        "misc" : ["Apache Solr", "Spring Reactive", "HP Fortify"]
+        "Cloud Technologies" : ["AWS", "Azure services", "Docker🐳", "Kubernetes"],
+        "databases" : ["MariaDB", "MySql", "H2", "Oracle", "MSSql"],
     }
-    architecture = ["Microservices", "CQRS Applications"]
     currentFocus = "Learning Azure"
 ```
 
-This year I'll focus on learning some of the DevOps tools like **Docker**, **Kubernetes** and **Azure**. I also started to test the waters of **GOLANG** and it's ecosystem. Created a few projects using **FastAPI** and **Gorilla/Mux** and will be creating a few more . Hopefully by the end of the year will have good Golang skills too.
+This year I'll focus on learning **Azure**. I also started to test the waters of **GOLANG** and it's ecosystem. Created a few projects using **FastAPI** and **Gorilla/Mux** and will be creating a few more. Hopefully by the end of the year will have good Golang skills too.
 
 If you find any of my Public projects as useful, feel free to **FORK**.
 
@@ -56,12 +54,12 @@ If you find any of my Public projects as useful, feel free to **FORK**.
 ## &#x1f4c8; GitHub Stats
 
 ---
-<p>
 <a href="https://github.com/erabhisheksingh/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=erabhisheksingh&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=erabhisheksingh&show_icons=true&theme=onedark&line_height=27&count_private=true" />
 </a>
 
 <a href="https://github.com/erabhisheksingh/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=erabhisheksingh&show_icons=true&langs_count=10&layout=compact&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=erabhisheksingh&show_icons=true&langs_count=10&layout=donut-vertical&theme=onedark" />
 </a>&nbsp;&nbsp;
-</p>
+
+
